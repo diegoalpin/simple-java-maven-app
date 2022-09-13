@@ -7,6 +7,7 @@ public class App
 {
 
     private final String message = "Hello WORDL finally it's trainingTwo Time again!!";
+	private String message2 = "Argh";
 
     public App() {}
 
